@@ -1,4 +1,3 @@
-﻿/// <reference path="bower_components/dt-angular/angular.d.ts"/>
 /// <reference path="google-diff-match-patch.d.ts"/>
 
 module AngularRichTextDiff {
